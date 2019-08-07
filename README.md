@@ -3,7 +3,7 @@
 Give 2 images to the algorithm an image to get the content and then an image to get the style 
 
 <p align = 'center'>
-<img src = 'bailarina-basculando-bailarina-verde.pjpg' height = '246px'>
+<img src = 'bailarina-basculando-bailarina-verde.jpg' height = '246px'>
 <img src = 'a_r_a.jpg' height = '246px'>
 <a href = 'bailarina-basculando-bailarina-verde_a_r_a.png'><img src = 'bailarina-basculando-bailarina-verde_a_r_a.png' width = '627px'></a>
 </p>
